@@ -1,0 +1,17 @@
+{
+  "full_dataset": {
+    "rows": 284807,
+    "columns": 31,
+    "fraud_cases": 492,
+    "non_fraud_cases": 284315,
+    "fraud_ratio_percent": 0.1727,
+    "amount_mean": 88.3496,
+    "amount_median": 22.0
+  },
+  "modeling_sample": {
+    "rows": 40492,
+    "fraud_cases": 492,
+    "non_fraud_cases": 40000,
+    "fraud_ratio_percent": 1.2151
+  }
+}
